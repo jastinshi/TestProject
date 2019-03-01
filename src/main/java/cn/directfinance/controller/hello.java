@@ -34,7 +34,7 @@ public class hello {
         Person per = new Person();
         map.put("sy","sy");
         System.out.println("github" +
-                "github");
+                "github"+ "testtests");
         return map;
     }
 }
