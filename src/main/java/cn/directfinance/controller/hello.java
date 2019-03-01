@@ -33,6 +33,8 @@ public class hello {
         HashMap<String,String> map1 =  new HashMap<String,String>();
         Person per = new Person();
         map.put("sy","sy");
+        System.out.println("github" +
+                "github");
         return map;
     }
 }
